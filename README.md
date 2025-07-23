@@ -1,16 +1,8 @@
 # flutter_medical_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project ini digunakan untuk melengkapi nilai Project UAS Desain Pemrograman Mobile (DPM) 
+Kelompok Teman Sehat Anggota: 
+- Raphikan Noprikhanni (2311500106)
+- Gibrael Ulya Farasyi (2311500098)
+- Muhammad Junandi (2311500092)
+- Rian nurwansyah (2311500090)
